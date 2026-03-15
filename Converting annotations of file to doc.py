@@ -5,17 +5,6 @@
 
 
 get_ipython().system('pip install pymupdf python-docx')
-
-
-# In[7]:
-
-
-
-
-
-# In[2]:
-
-
 import fitz  # PyMuPDF
 from docx import Document
 import tkinter as tk
